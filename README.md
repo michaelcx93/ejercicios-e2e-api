@@ -14,3 +14,4 @@ Este repositorio contiene dos proyectos prácticos:
 3. Selecciona **Download ZIP**.
 4. Extrae el archivo ZIP en tu computadora.
 
+NOTA: Cada ejercicio tiene un archivo README.md con las indicaciones y dependencias para ejecutarlo.
