@@ -1,4 +1,4 @@
-# Entrega ejercicios E2E y APIS
+# E2E y APIS
 
 Este repositorio contiene dos proyectos prácticos:
 
